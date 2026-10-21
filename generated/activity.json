@@ -6,19 +6,19 @@
     },
     {
       "name": "Infinite-Cinema-Series-Network-ICSN",
-      "days_since_push": 20.7
+      "days_since_push": 21.7
     },
     {
       "name": "Hotel-Reservation-System",
-      "days_since_push": 46.8
+      "days_since_push": 47.8
     },
     {
       "name": "Customer-Support-Zone",
-      "days_since_push": 86.1
+      "days_since_push": 87.1
     },
     {
       "name": "Green-nest",
-      "days_since_push": 95.8
+      "days_since_push": 96.8
     }
   ],
   "classifications": {
@@ -26,9 +26,7 @@
       "\ud83d\udd25 Active",
       "\ud83d\udcda Learning"
     ],
-    "Infinite-Cinema-Series-Network-ICSN": [
-      "\ud83d\udd25 Active"
-    ],
+    "Infinite-Cinema-Series-Network-ICSN": [],
     "Hotel-Reservation-System": [],
     "Customer-Support-Zone": [],
     "Green-nest": [],
