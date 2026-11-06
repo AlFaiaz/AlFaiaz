@@ -117,6 +117,17 @@
         "repo_count": 2
       },
       {
+        "technology": "Python",
+        "confidence": 0.99,
+        "repos": [
+          "AlFaiaz"
+        ],
+        "evidence": [
+          "GitHub language statistics"
+        ],
+        "repo_count": 1
+      },
+      {
         "technology": "C++",
         "confidence": 0.99,
         "repos": [
@@ -229,32 +240,37 @@
     {
       "language": "JavaScript",
       "bytes": 1610531,
-      "percentage": 53.7
+      "percentage": 52.7
     },
     {
       "language": "HTML",
       "bytes": 546876,
-      "percentage": 18.2
+      "percentage": 17.9
     },
     {
       "language": "TypeScript",
       "bytes": 534684,
-      "percentage": 17.8
+      "percentage": 17.5
     },
     {
       "language": "C#",
       "bytes": 215393,
-      "percentage": 7.2
+      "percentage": 7.0
     },
     {
       "language": "C++",
       "bytes": 62031,
-      "percentage": 2.1
+      "percentage": 2.0
+    },
+    {
+      "language": "Python",
+      "bytes": 55198,
+      "percentage": 1.8
     },
     {
       "language": "CSS",
       "bytes": 31650,
-      "percentage": 1.1
+      "percentage": 1.0
     },
     {
       "language": "ASP.NET",
