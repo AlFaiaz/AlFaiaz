@@ -71,7 +71,7 @@ A dynamic showcase of projects pinned directly on my GitHub profile:
 **Active & Ongoing Projects**
 
 - **[Infinite-Cinema-Series-Network-ICSN](https://github.com/AlFaiaz/Infinite-Cinema-Series-Network-ICSN)**
-  <sub>`JavaScript` · ⚡ In Progress · updated 51d ago</sub>
+  <sub>`JavaScript` · ⚡ In Progress · updated 52d ago</sub>
 - **[Hotel-Reservation-System](https://github.com/AlFaiaz/Hotel-Reservation-System)**
   <sub>`TypeScript` · ⚡ In Progress · updated 78d ago · [Live Demo](https://hotel-reservation-system-olive.vercel.app/)</sub>
 
