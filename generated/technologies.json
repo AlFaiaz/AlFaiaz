@@ -5,6 +5,7 @@
         "technology": "HTML",
         "confidence": 0.99,
         "repos": [
+          "Birthday-surprise",
           "Infinite-Cinema-Series-Network-ICSN",
           "Customer-Support-Zone",
           "Green-nest",
@@ -27,7 +28,7 @@
         "evidence": [
           "GitHub language statistics"
         ],
-        "repo_count": 18
+        "repo_count": 19
       },
       {
         "technology": "CSS",
@@ -240,17 +241,17 @@
     {
       "language": "JavaScript",
       "bytes": 1610531,
-      "percentage": 52.7
+      "percentage": 52.4
     },
     {
       "language": "HTML",
-      "bytes": 546876,
-      "percentage": 17.9
+      "bytes": 563266,
+      "percentage": 18.3
     },
     {
       "language": "TypeScript",
       "bytes": 534684,
-      "percentage": 17.5
+      "percentage": 17.4
     },
     {
       "language": "C#",
