@@ -71,7 +71,7 @@ A dynamic showcase of projects pinned directly on my GitHub profile:
 **Active & Ongoing Projects**
 
 - **[Birthday-surprise](https://github.com/AlFaiaz/Birthday-surprise)**
-  <sub>`HTML` · 🔥 Active · updated today · [Live Demo](https://alfaiaz.github.io/Birthday-surprise/)</sub>
+  <sub>`HTML` · 🔥 Active · updated 1d ago · [Live Demo](https://alfaiaz.github.io/Birthday-surprise/)</sub>
 
 ---
 
